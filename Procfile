@@ -1,1 +1,1 @@
-web: python3 ./changedetection.py -C -d ./datastore -p 80
+web: python3 ./changedetection.py -C -d ./datastore -p $PORT
